@@ -14,7 +14,7 @@ public class NextLevel : MonoBehaviour
     void Update()
     {
         //Debug.Log(PlayerInventory.TP);
-        if (PlayerInventory.TP == 1)
+        if (PlayerInventory.TP == 6)
         {
             gameObject.SetActive(false);
             PlayerInventory.TP = 0;
