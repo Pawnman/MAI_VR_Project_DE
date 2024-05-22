@@ -6,11 +6,23 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/DarkLab/Scenes/Start.unity
+    guid: d8ccd85fbe2a92743a1b7322d71cecc8
+  - enabled: 1
+    path: Assets/DarkLab/Scenes/Story.unity
+    guid: 61d9e10cb4f72b949ba5be442e77fdd7
+  - enabled: 1
+    path: Assets/DarkLab/Scenes/Controlls.unity
+    guid: 64286c1c91efd86498f8f781138fbcc3
+  - enabled: 1
     path: Assets/DarkLab/Scenes/Level_1.unity
     guid: 1d11406fbe2f8924c9150a507d7a970f
   - enabled: 1
     path: Assets/DarkLab/Scenes/Level_2.unity
     guid: 752d1d41638fb0645b9895ba00dccc3a
+  - enabled: 1
+    path: Assets/DarkLab/Scenes/Finish.unity
+    guid: 9cebd291f6c46524497bdc9e158a252b
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bb79d33030ebd594692118b97496d023, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 50e5b83b348e4df4cae757404deef082, type: 2}
