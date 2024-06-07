@@ -21,6 +21,9 @@ EditorBuildSettings:
     path: Assets/DarkLab/Scenes/Level_2.unity
     guid: 752d1d41638fb0645b9895ba00dccc3a
   - enabled: 1
+    path: Assets/DarkLab/Scenes/Level_3.unity
+    guid: b607dffd8181af446971031b6a6cc0af
+  - enabled: 1
     path: Assets/DarkLab/Scenes/Finish.unity
     guid: 9cebd291f6c46524497bdc9e158a252b
   m_configObjects:
