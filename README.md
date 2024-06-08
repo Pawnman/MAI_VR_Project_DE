@@ -154,7 +154,7 @@
 <h2>Билд:</h2>
 <p>Билд проекта можно скачать по следующей ссылке:</p>
 <href>https://drive.google.com/file/d/1uy4d0F7j4_yyQJ933fYWsN_HIzMx4mUK/view?usp=sharing</href>
-<h2>Демонтсрационный видеоролик:</h2>
+<h2>Демонстрационный видеоролик:</h2>
 <href>https://youtu.be/qUt66oXlr00</href>
 <h2>Инструкция по запуску (Oqulus Quest 2):</h2>
 <p>1. Скачать билд (файл формата .apk) проекта по ссылке.</p>
