@@ -6622,11 +6622,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_System: {fileID: 8073893463718151461}
   m_MoveSpeed: 2
-  m_EnableStrafe: 0
+  m_EnableStrafe: 1
   m_EnableFly: 0
   m_UseGravity: 0
   m_GravityApplicationMode: 0
-  m_ForwardSource: {fileID: 0}
+  m_ForwardSource: {fileID: 5503943224945486386}
   m_LeftHandMoveAction:
     m_UseReference: 1
     m_Action:

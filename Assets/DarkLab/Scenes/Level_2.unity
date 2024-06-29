@@ -13049,11 +13049,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_System: {fileID: 6801446838184998995}
   m_MoveSpeed: 4
-  m_EnableStrafe: 0
+  m_EnableStrafe: 1
   m_EnableFly: 0
   m_UseGravity: 0
   m_GravityApplicationMode: 0
-  m_ForwardSource: {fileID: 0}
+  m_ForwardSource: {fileID: 7065659345982691140}
   m_LeftHandMoveAction:
     m_UseReference: 1
     m_Action:
