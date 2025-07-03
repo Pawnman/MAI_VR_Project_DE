@@ -106,59 +106,59 @@
   <li>7. Игрок выигрывает при успешном достижении платформы «ФИНИШ». Включается экран «CONGRATULATIONS!», на котором предлагается еще раз пройти игру заново по нажатию на кнопку «REPLAY». Происходит переход на пункт 1.
 </li>
 
-<h2>Механики и фичи:</h2>
-<h3><u>Core-механики:</u></h3>
+<h2>Mechanics and features:</h2>
+<h3><u>Core mechanics:</u></h3>
 <ul>
-  <li>Игрок перемещается с помощью левого контроллера.</li>
-  <li>Игрок поворачивается с помощью правого контроллера.
+  <li>The player moves using the left controller..</li>
+  <li>The player turns using the right controller.
 </li>
-  <li>Игрок перемещается по лабиринту, не проходя сквозь его стены.
+  <li>The player moves through the maze without passing through its walls.
 </li>
-  <li>Во время перемещения игрока слышны звуки его шагов.
+  <li>As the player moves, the sounds of his footsteps can be heard.
 </li>
-  <li>В момент, когда игрок совершает шаг, во время перемещения, от места звука его шага испускаются лучи, эмулирующие распространение звука (звуковых волн) от шага.
+  <li>At the moment when the player takes a step, during movement, rays are emitted from the place of the sound of his step, emulating the propagation of sound (sound waves) from the step.
 </li>
-  <li>Отражение лучей звука от препятствий и постепенное их исчезановение.
+  <li>Reflection of sound rays from obstacles and their gradual disappearance.
 </li>
     </ul>
 
-<h3><u>Additional-механики:</u></h3>
+<h3><u>Additional-mechanics:</u></h3>
 <ul>
-  <li>Игрок собирает бонусы в виде пар обуви для прохождения уровня.
+  <li>The player collects bonuses in the form of pairs of shoes to complete the level.
 </li>
-  <li>При достижении финиша игрок переносится на следующий уровень.
+  <li>Upon reaching the finish line, the player is transferred to the next level.
 
   <li><ul>
-    <li>1 уровень – «простое» прохождение лабиринта.
+    <li>Level 1 – "simple" passage of the labyrinth.
 </li>
-    <li>2 уровень – чтобы пройти данный уровень, необходимо собрать все бонусы в виде пар обуви.
+    <li>Level 2 – to pass this level, you need to collect all the bonuses in the form of pairs of shoes.
 </li>
  </ul>   
     </ul>
 
-<h3><u>Juice-механики:</u></h3>
+<h3><u>Juice mechanics:</u></h3>
 
-  <li>Игрок не может завершить уровень до тех пор, пока не соберет все бонусы.
+  <li>The player cannot complete the level until he collects all the bonuses.
 </li>
 <ul>
-  <li>Добавление предметов, которые можно перемещать по лабиринту.
+  <li>Adding objects that can be moved around the maze.
 </li>
-  <li>Добавление нового уровня, в котором присутствует механика перемещения предметов для решения головоломок и прохождения уровней.
+  <li>Adding a new level that features mechanics of moving objects to solve puzzles and complete levels.
 </li>
 </ul>
 
-<li>Добавлен третий уровень с механикой скалолазанья по стенам/уступам в стенах.
+<li>Adding a new level that features mechanics of moving objects to solve puzzles and complete levels.
 </li>
 
 
-<h2>Билд:</h2>
-<p>Билд проекта можно скачать по следующей ссылке:</p>
+<h2>Build:</h2>
+<p>The project build can be downloaded from the following link:</p>
 <href>https://drive.google.com/file/d/1uy4d0F7j4_yyQJ933fYWsN_HIzMx4mUK/view?usp=sharing</href>
-<h2>Демонстрационный видеоролик:</h2>
+<h2>Demonstration video:</h2>
 <href>https://youtu.be/qUt66oXlr00</href>
-<h2>Инструкция по запуску (Oculus Quest 2):</h2>
-<p>1. Скачать билд (файл формата .apk) проекта по ссылке.</p>
-<p>2. Установить на ПК SideQuest (или любую другую программу, позволяющую просматривать файлы директорий VR оборудования), позволяющий загружать в oculus установочные файлы сторонних разработчиков.</p>
-<p>3. С помощью SideQuest устновить устновочный файл билда (.apk) в oculus quest 2.</p>
-<p>4. После установки приложения, необходимо зайти в настройки VR-гарнитуры во вкладку приложений и выбрать "Неизвестные приложения".</p>
-<p>5. Среди неизвестных приложений найти приложение с названием "MAI_VR_Project_DE" и запустить его.</p>
+<h2>Launch instructions (Oculus Quest 2):</h2>
+<p>1. Download the build (.apk file) of the project from the link.</p>
+<p>2. Install SideQuest (or any other program that allows you to view VR hardware directory files) on your PC, which allows you to download third-party installation files to Oculus.</p>
+<p>3. Using SideQuest, install the build installation file (.apk) into oculus quest 2.</p>
+<p>4. After installing the application, you need to go to the VR headset settings in the applications tab and select "Unknown applications".</p>
+<p>5. Among unknown applications, find the application named "MAI_VR_Project_DE" and run it.</p>
