@@ -97,13 +97,14 @@
 </p>
 
 <h2>Life cycle:</h2>
-  <li>1. Запуск/начало игры по нажатию на кнопку «PLAY» в стартовом меню.</li>
-  <li>2. Экран с сюжетом/предысторией, описанием управления и кнопкой с переходом к следующему экрану.</li>
-  <li>3. Экран с описанием управления и кнопкой с переходом к 1-му уровню с лабиринтом.</li>
-  <li>4. Прохождение лабиринта от точки «СТАРТ» до точки «ФИНИШ» и переход на 2-ой уровень.</li>
-  <li>5. Прохождение лабиринта от точки «СТАРТ» до точки «ФИНИШ» и сбор бонусов, а также переход на уровень 3.</li>
-  <li>6. Прохождение лабиринта от платформы «СТАРТ» до платформы «ФИНИШ» и сбор бонусов.</li>
-  <li>7. Игрок выигрывает при успешном достижении платформы «ФИНИШ». Включается экран «CONGRATULATIONS!», на котором предлагается еще раз пройти игру заново по нажатию на кнопку «REPLAY». Происходит переход на пункт 1.
+  <li>1. 
+Launch/start the game by pressing the "PLAY" button in the start menu.</li>
+  <li>2. Screen with plot/backstory, control description and button to go to the next screen.</li>
+  <li>3. Screen with description of controls and button to go to level 1 with a labyrinth.</li>
+  <li>4. Passing the labyrinth from the START point to the FINISH point and moving to the 2nd level.</li>
+  <li>5. Passing the labyrinth from the START point to the FINISH point and collecting bonuses, as well as moving to level 3.</li>
+  <li>6. Passing the labyrinth from the START platform to the FINISH platform and collecting bonuses.</li>
+  <li>7. The player wins by successfully reaching the "FINISH" platform. The "CONGRATULATIONS!" screen is activated, offering to play the game again by pressing the "REPLAY" button. The transition to point 1 occurs.
 </li>
 
 <h2>Mechanics and features:</h2>
